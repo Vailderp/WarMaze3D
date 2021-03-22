@@ -19,7 +19,6 @@
 #include <SFML/Graphics.hpp>
 #include "Math.h"
 #include "include/my/binary.h"
-#include "Sprite3d.hpp"
 
 //Vailder3D namespace
 class v3d
