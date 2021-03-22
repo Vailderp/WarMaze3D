@@ -31,6 +31,7 @@ public:
 		return matrix(sizeX, std::vector<int>(sizeY, 0));
 	}
 
+	//Обычно нужен для хранения информации о 4 углах
 	template<typename T>
 	class quad
 	{
